@@ -20,4 +20,6 @@
 
 3. Pasado ese tiempo, agrega el resto de la nata líquida y el queso gorgonzola. Deja que se cocine durante 3-4 minutos. Poco a poco verás que se va formando una crema densa.
 
-+ Por último, mezcla los espaguetis con la crema que acabas de preparar. Mézclala suavemente y sírvela con un par de nueces por encima, a modo de decoración.
+4. Por último, mezcla los espaguetis con la crema que acabas de preparar. Mézclala suavemente y sírvela con un par de nueces por encima, a modo de decoración.
+
+![imagen](https://img.recetascomidas.com/recetas/640_480/macarrones-con-salsa-gorgonzola.jpg)
