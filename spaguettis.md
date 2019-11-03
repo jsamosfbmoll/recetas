@@ -1,4 +1,4 @@
-# Spaguettis Gorgonzola
+# Spaguettis Gorgonzola. Sebastià Adrover
 
 ### INGRDIENTES:
 
