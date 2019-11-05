@@ -5,4 +5,4 @@ Para crear un repositorio local debemos situarnos en la carpeta deseada con la c
 Ejecutas el comando `git init` y se inicia el repositorio en local, si necesitas conectarlo a un repositorio remoto debes escribir el comando `git remote add <url>`.
 
 [macarrones](macarrones.md)
-[spaguettis](espaguettis.md)
+[spaguettis](spaguettis.md)
